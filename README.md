@@ -1,5 +1,5 @@
 # MockApp
-1) navigate inside MOCKAPI directory =cd MOCKAPI
+1) navigate inside MockApp directory =cd MockApp
 2) run command = npm install
 3) start api server by running command in the same navigated directory = npm start
 4) now open new terminal
